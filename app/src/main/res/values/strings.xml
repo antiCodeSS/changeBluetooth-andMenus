@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">CaresManager</string>
+    <string name="activity_baglanti">Bağlantı Ekranı</string>
+    <string name="activity_olcum">Ölçüm Eranı</string>
+    <string name="activity_wires">Wires</string>
+    <string name="activity_veriler">Veriler Ekranı</string>
+    <string name="activity_ters_cozum">Ters Çözüm Ekranı</string>
+    <string name="activity_koordinat">Koordinat Ekranı</string>
+    <string name="activity_hakkinda">Hakkında</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- wires -->
+    <string name="colonX">X</string>
+    <string name="colonY">Y</string>
+    <string name="colonZ">Z</string>
+
+    <string name="anscolonX">-</string>
+    <string name="anscolonY">-</string>
+    <string name="anscolonZ">-</string>
+
+
+
+
+
+    <!-- basıc fragment -->
+
+    <string name="colon1">Datum</string>
+    <string name="colon2">C1</string>
+    <string name="colon3">C2</string>
+    <string name="colon4">P1</string>
+    <string name="colon5">P2</string>
+    <string name="colon6">k</string>
+    <string name="colon7">dV</string>
+    <string name="colon8">I</string>
+    <string name="colon9">roa</string>
+    <string name="colon10">Std</string>
+
+
+    <string name="row1Datum">1</string>
+    <string name="row1C1">-</string>
+    <string name="row1C2">-</string>
+    <string name="row1P1">-</string>
+    <string name="row1P2">-</string>
+    <string name="row1k">-</string>
+    <string name="row1dV">-</string>
+    <string name="row1I">-</string>
+    <string name="row1roa">-</string>
+    <string name="row1Std">-</string>
+
+
+    <string name="row2Datum">2</string>
+    <string name="row2C1">-</string>
+    <string name="row2C2">-</string>
+    <string name="row2P1">-</string>
+    <string name="row2P2">-</string>
+    <string name="row2k">-</string>
+    <string name="row2dV">-</string>
+    <string name="row2I">-</string>
+    <string name="row2roa">-</string>
+    <string name="row2Std">-</string>
+
+    <string name="row3Datum">3</string>
+    <string name="row3C1">-</string>
+    <string name="row3C2">-</string>
+    <string name="row3P1">-</string>
+    <string name="row3P2">-</string>
+    <string name="row3k">-</string>
+    <string name="row3dV">-</string>
+    <string name="row3I">-</string>
+    <string name="row3roa">-</string>
+    <string name="row3Std">-</string>
+
+    <string name="row4Datum">4</string>
+    <string name="row4C1">-</string>
+    <string name="row4C2">-</string>
+    <string name="row4P1">-</string>
+    <string name="row4P2">-</string>
+    <string name="row4k">-</string>
+    <string name="row4dV">-</string>
+    <string name="row4I">-</string>
+    <string name="row4roa">-</string>
+    <string name="row4Std">-</string>
+
+    <string name="row5Datum">5</string>
+    <string name="row5C1">-</string>
+    <string name="row5C2">-</string>
+    <string name="row5P1">-</string>
+    <string name="row5P2">-</string>
+    <string name="row5k">-</string>
+    <string name="row5dV">-</string>
+    <string name="row5I">-</string>
+    <string name="row5roa">-</string>
+    <string name="row5Std">-</string>
+
+    <string name="row6Datum">6</string>
+    <string name="row6C1">-</string>
+    <string name="row6C2">-</string>
+    <string name="row6P1">-</string>
+    <string name="row6P2">-</string>
+    <string name="row6k">-</string>
+    <string name="row6dV">-</string>
+    <string name="row6I">-</string>
+    <string name="row6roa">-</string>
+    <string name="row6Std">-</string>
+
+
+    <string name="row7Datum">7</string>
+    <string name="row7C1">-</string>
+    <string name="row7C2">-</string>
+    <string name="row7P1">-</string>
+    <string name="row7P2">-</string>
+    <string name="row7k">-</string>
+    <string name="row7dV">-</string>
+    <string name="row7I">-</string>
+    <string name="row7roa">-</string>
+    <string name="row7Std">-</string>
+
+    <!-- tablo fragment-->
+
+
+    <string name="c1">C1</string>
+    <string name="p1">P1</string>
+    <string name="p2">P2</string>
+    <string name="c2">C2</string>
+
+    <string name="ansc1">-</string>
+    <string name="ansp1">-</string>
+    <string name="ansp2">-</string>
+    <string name="ansc2">-</string>
+
+
+    <string name="basicDatum">Datum</string>
+    <string name="basick">k</string>
+    <string name="basicI">  I    (Amper)</string>
+    <string name="basicdV">ΔV (V)</string>
+    <string name="basicOhm"> ρa  (Ω.m)</string>
+    <string name="basicStd">Std.Dev.(Ω.m)</string>
+
+
+    <string name="ansbasicDatum">-</string>
+    <string name="ansbasick">-</string>
+    <string name="ansbasicI">-</string>
+    <string name="ansbasicdV">-</string>
+    <string name="ansbasicOhm">-</string>
+    <string name="ansbasicStd">-</string>
+    <string name="title_activity_olcum">Olcum</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

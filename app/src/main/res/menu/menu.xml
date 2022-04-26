@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_baglanti" android:title="Bağlantı"></item>
+    <item android:id="@+id/add_olcum" android:title="Ölçüm"></item>
+    <item android:id="@+id/add_veriler" android:title="Eski Veriler"></item>
+    <item android:id="@+id/add_terscozum" android:title="Ters Çözüm"></item>
+    <item android:id="@+id/add_koordinat" android:title="Koordinat"></item>
+    <item android:id="@+id/add_hakkinda" android:title="Hakkında"></item>
+
+</menu>
+
